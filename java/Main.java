@@ -1,5 +1,5 @@
 import java.until.Scanner;
-public class main {
+public class Main {
     public static void main(String[] args) {
         final double PI = 3.14159;
         Scanner sc = new Scanner(System.in);
