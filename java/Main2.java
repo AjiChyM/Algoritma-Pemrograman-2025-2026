@@ -1,5 +1,5 @@
 import java.until.Scanner;
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Scanner sc = newScanner(System.in);
         System.out.print("Masukkan angka pertama:");
